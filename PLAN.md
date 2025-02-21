@@ -1,16 +1,16 @@
 
 
-Comments & escape sequences
-variables
-data types 📊
-format specifiers 🔧
-constants 
-arithmetic operators ➗
-augmented assignment operators 🧮
-User input ⌨️
-math functions 📚
-circle circumference program ⚪
-hypotenuse calculator program 📐
+3. Comments & escape sequences
+4. variables
+5. data types 📊
+6. format specifiers 🔧
+7. constants 
+8. arithmetic operators ➗
+9. augmented assignment operators 🧮
+10. User input ⌨️
+11. math functions 📚
+12. circle circumference program ⚪
+13. hypotenuse calculator program 📐
 if statements ✔️
 switch statements 
 temperature conversion program 🌡️
