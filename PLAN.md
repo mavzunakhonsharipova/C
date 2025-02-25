@@ -1,6 +1,6 @@
 
 
-3. Comments & escape sequences
+3. Comments & escape sequences   
 4. variables
 5. data types 📊
 6. format specifiers 🔧
